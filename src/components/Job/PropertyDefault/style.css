@@ -1,0 +1,56 @@
+.property-default {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  position: relative;
+  width: 220px;
+}
+
+.property-default .caret-down {
+  height: 16px;
+  left: 191px;
+  position: absolute;
+  top: 14px;
+  width: 13px;
+}
+
+.property-default .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 57px;
+}
+
+.property-default .text-wrapper-7 {
+  color: #141414;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.property-default .text-wrapper-8 {
+  color: #0072bc;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: -58px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,30 @@
+.create {
+  align-items: center;
+  background-color: #3575e2;
+  border-radius: 4px;
+  display: flex;
+  gap: 8px;
+  height: 32px;
+  justify-content: center;
+  padding: 8px 20px 8px 16px;
+  position: relative;
+  width: 162px;
+}
+
+.create .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -4px;
+  margin-top: -4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create:hover {
+  background-color: #5bbeff;
+}

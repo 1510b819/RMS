@@ -1,0 +1,23 @@
+.FAQ {
+  height: 36px;
+  position: relative;
+  width: 57px;
+}
+
+.FAQ .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.FAQ:hover .text-wrapper {
+  color: #a2a2a2;
+}
+

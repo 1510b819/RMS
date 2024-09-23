@@ -1,0 +1,26 @@
+.log-in {
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 38px;
+  position: relative;
+  width: 124px;
+}
+
+.log-in .text-wrapper {
+  color: #0072bc;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.log-in:hover {
+  background-color: #d0d0d0;
+}
+

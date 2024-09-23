@@ -1,0 +1,16 @@
+.rectangle {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.rectangle.default {
+  height: 582px;
+  width: 550px;
+}
+
+.rectangle.variant-2 {
+  height: 605px;
+  width: 572px;
+}
+

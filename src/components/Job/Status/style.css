@@ -1,0 +1,18 @@
+.status {
+  height: 29px;
+  position: relative;
+  width: 76px;
+}
+
+.status .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+

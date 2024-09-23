@@ -1,0 +1,22 @@
+.log-out {
+  height: 24px;
+  position: relative;
+  width: 77px;
+}
+
+.log-out .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.log-out:hover .text-wrapper-3 {
+  color: #a2a2a2;
+}

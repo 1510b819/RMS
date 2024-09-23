@@ -1,0 +1,568 @@
+.dashboard-screen {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard-screen .dashboard-2 {
+  background-color: #fafafa;
+  height: 1937px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+.dashboard-screen .vector-5 {
+    height: 38px;
+  left: 992px;
+  position: absolute;
+  top: 14px;
+  width: 38px;
+}
+.dashboard-screen .vector-4 {
+    height: 34px;
+  left: 933px;
+  position: absolute;
+  top: 14px;
+  width: 30px;
+}
+.dashboard-screen .log-out-instance {
+    left: 1050px !important;
+    position: absolute !important;
+    top: 22px !important;
+}
+
+.dashboard-screen .img-5{
+    height: 14px;
+    left: 1004px;
+    position: absolute;
+    top: 22px;
+    width: 14px;
+}
+
+.dashboard-screen .ellipse {
+  background-color: #fff200;
+  border-radius: 170.5px/169px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 338px;
+  left: 2933px;
+  position: absolute;
+  top: 1061px;
+  width: 341px;
+}
+
+.dashboard-screen .image {
+  height: 111px;
+  left: 1130px;
+  object-fit: cover;
+  position: absolute;
+  top: -1975px;
+  width: 196px;
+}
+
+.dashboard-screen .overlap {
+    height: 82px;
+    left: 196px;
+    position: absolute;
+    top: 44px;
+    width: 1316px;
+}
+
+.dashboard-screen .rectangle {
+    background-color: #0072bc;
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1316px;
+}
+
+.dashboard-screen .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  left: 1083px;
+  position: absolute;
+  top: 15px;
+}
+
+.dashboard-screen .frame-wrapper {
+  height: 35.99px;
+  position: relative;
+  width: 187px;
+}
+
+.dashboard-screen .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 21px;
+  height: 36px;
+  position: relative;
+  width: 187px;
+}
+
+.dashboard-screen .vector {
+  height: 32.2px;
+  position: relative;
+  width: 30px;
+}
+
+.dashboard-screen .img {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.dashboard-screen .design-component-instance-node {
+  font-family: "Inter-Regular", Helvetica !important;
+  font-weight: 400 !important;
+}
+
+.dashboard-screen .rectangle-2 {
+  background-color: #fafafa;
+  border-radius: 20px;
+  height: 66px;
+  left: 10px;
+  position: absolute;
+  top: 18px;
+  width: 168px;
+}
+
+.dashboard-screen .group {
+  height: 29px;
+  left: 32px;
+  position: absolute;
+  top: 28px;
+  width: 561px;
+}
+
+.dashboard-screen .dashboard-instance {
+  color: #0072bc !important;
+  width: 127px !important;
+}
+
+.dashboard-screen .candidate-instance {
+  left: 202px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.dashboard-screen .status-instance {
+  left: 346px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.dashboard-screen .job-posting-instance {
+  left: 446px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.dashboard-screen .overlap-group {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 1786px;
+  width: 1512px;
+}
+
+.dashboard-screen .rectangle-3 {
+  background-color: #0072bc;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1512px;
+}
+
+.dashboard-screen .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 80px;
+  left: 888px;
+  position: absolute;
+  top: 101px;
+}
+
+.dashboard-screen .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-4 {
+  height: 37px;
+  left: 1097px;
+  position: absolute;
+  top: 21px;
+  width: 204px;
+}
+
+.dashboard-screen .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 210px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dashboard-screen .frame-5 {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 18px;
+  left: 234px;
+  position: absolute;
+  top: 68px;
+}
+
+.dashboard-screen .vector-2 {
+  height: 27px;
+  position: relative;
+  width: 27px;
+}
+
+.dashboard-screen .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-6 {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 18px;
+  left: 234px;
+  position: absolute;
+  top: 107px;
+}
+
+.dashboard-screen .vector-3 {
+  height: 27px;
+  position: relative;
+  width: 28px;
+}
+
+.dashboard-screen .logo {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 196px;
+}
+
+.dashboard-screen .rectangle-4 {
+  background-color: #0072bc;
+  height: 7px;
+  left: 46px;
+  position: absolute;
+  top: 237px;
+  width: 1420px;
+}
+
+.dashboard-screen .text-wrapper-8 {
+  color: #494949;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+}
+
+.dashboard-screen .text-wrapper-9 {
+  color: #494949;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 904px;
+}
+
+.dashboard-screen .rectangle-5 {
+  height: 478px;
+  left: 166px;
+  position: absolute;
+  top: 352px;
+  width: 1180px;
+}
+
+.dashboard-screen .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  gap: 13px;
+  left: 675px;
+  position: absolute;
+  top: 855px;
+}
+
+.dashboard-screen .ellipse-2 {
+  background-color: #d9d9d9;
+  border-radius: 11px;
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-screen .ellipse-3 {
+  background-color: #a7a7a7;
+  border-radius: 11px;
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-screen .frame-8 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px 42px;
+  height: 294px;
+  left: 46px;
+  padding: 32px 28px 32px 42px;
+  position: absolute;
+  top: 981px;
+  width: 460px;
+}
+
+.dashboard-screen .text-wrapper-10 {
+  color: #000000;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -18.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .div-wrapper {
+  align-items: center;
+  background-color: #7d5ae21a;
+  border-radius: 3px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  margin-top: -10.5px;
+  overflow: hidden;
+  padding: 2px 6px;
+  position: relative;
+}
+
+.dashboard-screen .text-wrapper-11 {
+  color: #7d5ae2;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  padding: 2px 0px;
+  position: relative;
+}
+
+.dashboard-screen .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.dashboard-screen .img-2 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.dashboard-screen .text-wrapper-12 {
+  color: #141414b2;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .ellipse-4 {
+  background-color: #141414b2;
+  border-radius: 1px;
+  height: 2px;
+  position: relative;
+  width: 2px;
+}
+
+.dashboard-screen .a-school-nurse-is-a {
+  color: #141414b2;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.dashboard-screen .text-wrapper-13 {
+  color: #7d5ae2;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -16.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-11 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px 42px;
+  height: 294px;
+  left: 526px;
+  padding: 32px 28px 32px 42px;
+  position: absolute;
+  top: 981px;
+  width: 460px;
+}
+
+.dashboard-screen .text-wrapper-14 {
+  color: #000000;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -6.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-12 {
+  align-items: center;
+  background-color: #7d5ae21a;
+  border-radius: 3px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  overflow: hidden;
+  padding: 2px 6px;
+  position: relative;
+}
+
+.dashboard-screen .cashiers-are-the {
+  color: #141414b2;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 366px;
+}
+
+.dashboard-screen .text-wrapper-15 {
+  color: #7d5ae2;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -4.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 996px;
+  padding: 10px;
+  position: absolute;
+  top: 971px;
+  width: 480px;
+}
+
+.dashboard-screen .frame-14 {
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 294px;
+  position: relative;
+  width: 100%;
+}
+
+.dashboard-screen .text-wrapper-16 {
+  color: #7d5ae2;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+

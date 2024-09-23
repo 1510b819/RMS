@@ -1,0 +1,778 @@
+.my-profile {
+  position: relative;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-profile .div {
+  background-color: #fafafa;
+  height: 1691px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.my-profile .image {
+  height: 111px;
+  left: -17785px;
+  object-fit: cover;
+  position: absolute;
+  top: -47px;
+  width: 196px;
+}
+
+.my-profile .overlap {
+  background-color: #0072bc;
+  height: 64px;
+  left: 196px;
+  position: absolute;
+  top: 43px;
+  width: 1316px;
+}
+
+.my-profile .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  left: 1083px;
+  position: absolute;
+  top: 14px;
+}
+
+.my-profile .frame-wrapper {
+  height: 35.99px;
+  position: relative;
+  width: 187px;
+}
+
+.my-profile .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 21px;
+  height: 36px;
+  position: relative;
+  width: 187px;
+}
+
+.my-profile .vector {
+  height: 32.2px;
+  position: relative;
+  width: 30px;
+}
+
+.my-profile .img {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.my-profile .log-out-instance {
+  font-family: "Inter-Regular", Helvetica !important;
+  font-weight: 400 !important;
+}
+
+.my-profile .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 35px;
+  left: 45px;
+  position: absolute;
+  top: 18px;
+}
+
+.my-profile .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-profile .overlap-group {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 1540px;
+  width: 1512px;
+}
+
+.my-profile .rectangle {
+  background-color: #0072bc;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1512px;
+}
+
+.my-profile .terms-conditions {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1100px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.my-profile .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 889px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.my-profile .vector-2 {
+  height: 37px;
+  left: 1097px;
+  position: absolute;
+  top: 21px;
+  width: 204px;
+}
+
+.my-profile .button-container {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  align-items: center;
+  position: absolute; /* Stick it to the bottom */
+  bottom: 20px; /* Distance from the bottom */
+  width: 100%;
+}
+
+.my-profile .custom-button {
+  background-color: #007BFF;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  position: absolute;
+  bottom: 300px;
+  left: 166px;
+}
+
+.custom-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+
+.my-profile .vector-3 {
+  height: 37px;
+  left: 1176px;
+  position: absolute;
+  top: 21px;
+  width: 39px;
+}
+
+.my-profile .vector-4 {
+  height: 37px;
+  left: 1255px;
+  position: absolute;
+  top: 21px;
+  width: 47px;
+}
+
+.my-profile .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 211px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.my-profile .vector-5 {
+  height: 27px;
+  left: 235px;
+  position: absolute;
+  top: 70px;
+  width: 27px;
+}
+
+.my-profile .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+}
+
+.my-profile .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 281px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+}
+
+.my-profile .vector-6 {
+  height: 27px;
+  left: 235px;
+  position: absolute;
+  top: 109px;
+  width: 28px;
+}
+
+.my-profile .logo {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 196px;
+}
+
+.my-profile .rectangle-2 {
+  background-color: #0072bc;
+  height: 7px;
+  left: 46px;
+  position: absolute;
+  top: 237px;
+  width: 1420px;
+}
+
+.my-profile .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  height: 134px;
+  left: 166px;
+  position: absolute;
+  top: 321px;
+  width: 1180px;
+}
+
+.my-profile .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 23px;
+  left: 31px;
+  position: absolute;
+  top: 23px;
+}
+
+.my-profile .icon-person {
+  height: 86px;
+  position: relative;
+  width: 86px;
+}
+
+.my-profile .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 176px;
+}
+
+.my-profile .text-wrapper-7 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.my-profile .text-wrapper-8 {
+  align-self: stretch;
+  color: #656565;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.my-profile .p {
+  color: #656565;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -42px;
+  position: relative;
+  width: 218px;
+}
+
+.my-profile .div-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 44px;
+  left: 1079px;
+  padding: 10px 16px;
+  position: absolute;
+  top: 21px;
+  width: 83px;
+}
+
+.my-profile .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  position: relative;
+}
+
+.my-profile .vector-7 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.my-profile .text-wrapper-9 {
+  color: #3575e2;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-profile .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  height: 431px;
+  left: 166px;
+  position: absolute;
+  top: 496px;
+  width: 1180px;
+}
+
+.my-profile .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.my-profile .frame-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 34px;
+  position: absolute;
+  top: 83px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-11 {
+  align-self: stretch;
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.my-profile .text-wrapper-12 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -64px;
+  position: relative;
+  width: 147px;
+}
+
+.my-profile .frame-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 31px;
+  position: absolute;
+  top: 341px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-13 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -11px;
+  margin-top: -1px;
+  position: relative;
+  width: 94px;
+}
+
+.my-profile .text-wrapper-14 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -11px;
+  position: relative;
+  width: 94px;
+}
+
+.my-profile .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 479px;
+  position: absolute;
+  top: 255px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-15 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -44px;
+  margin-top: -1px;
+  position: relative;
+  width: 127px;
+}
+
+.my-profile .text-wrapper-16 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -41px;
+  position: relative;
+  width: 124px;
+}
+
+.my-profile .frame-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 31px;
+  position: absolute;
+  top: 255px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-17 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -149px;
+  position: relative;
+  width: 232px;
+}
+
+.my-profile .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 34px;
+  position: absolute;
+  top: 169px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-18 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -30px;
+  margin-top: -1px;
+  position: relative;
+  width: 113px;
+}
+
+.my-profile .text-wrapper-19 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -162px;
+  position: relative;
+  width: 245px;
+}
+
+.my-profile .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 479px;
+  position: absolute;
+  top: 83px;
+  width: 93px;
+}
+
+.my-profile .text-wrapper-20 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -49px;
+  position: relative;
+  width: 142px;
+}
+
+.my-profile .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 479px;
+  position: absolute;
+  top: 169px;
+  width: 93px;
+}
+
+.my-profile .text-wrapper-21 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -136px;
+  position: relative;
+  width: 229px;
+}
+
+.my-profile .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  height: 351px;
+  left: 166px;
+  position: absolute;
+  top: 968px;
+  width: 1180px;
+}
+
+.my-profile .frame-13 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 44px;
+  left: 1079px;
+  padding: 10px 16px;
+  position: absolute;
+  top: 30px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-22 {
+  color: #000000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 28px;
+}
+
+.my-profile .frame-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 38px;
+  position: absolute;
+  top: 92px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-23 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -30px;
+  position: relative;
+  width: 113px;
+}
+
+.my-profile .frame-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 38px;
+  position: absolute;
+  top: 178px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-24 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -50px;
+  position: relative;
+  width: 133px;
+}
+
+.my-profile .frame-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 38px;
+  position: absolute;
+  top: 264px;
+  width: 83px;
+}
+
+.my-profile .frame-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 479px;
+  position: absolute;
+  top: 92px;
+  width: 83px;
+}
+
+.my-profile .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 479px;
+  position: absolute;
+  top: 178px;
+  width: 83px;
+}
+
+.my-profile .text-wrapper-25 {
+  color: #656565;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -16px;
+  margin-top: -1px;
+  position: relative;
+  width: 99px;
+}
+
+.my-profile .frame-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 23px;
+  left: 166px;
+  position: absolute;
+  top: 264px;
+}
+
+.my-profile .vector-8 {
+  height: 37.26px;
+  position: relative;
+  width: 25.62px;
+}
+
+.my-profile .text-wrapper-26 {
+  color: #000000;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+

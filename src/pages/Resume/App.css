@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+  margin-top: 74px;
+  font-family: "Inter", Helvetica;
+  font-weight: bold; /* Make the font bold */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: calc(100vh - 74px); 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.json-display {
+  width: 100%;
+  max-width: 800px; 
+  margin: 0 auto;
+  padding: 16px;
+  font-family: monospace;
+  font-size: 14px;
+  white-space: pre-wrap;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.resume-table {
+  border-collapse: collapse;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.resume-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  padding: 20px;
+}
+
+.resume-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.blue-rectangle {
+  background-color: #0072BC;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px; 
+  position: absolute;
+  top: 10px; 
+  left: 0;
+  right: 0;
+}
+
+.blue-rectangle img {
+  height: 50px; 
+  width: auto; 
+  margin-right: 20px; 
+}
+
+.white-text {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-weight: bold; 
+}
+
+/* Styling for file upload components */
+.file-upload-container {
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center;
+  margin-top: 20px; /* Add margin to separate it from other elements */
+}
+
+.file-browse-button,
+.file-upload-button {
+  background-color: #0072BC; /* Change the background color */
+  color: white; /* Change the text color */
+  padding: 10px 20px; /* Add padding */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add border radius */
+  cursor: pointer; /* Change cursor to pointer */
+  margin: 5px; /* Add margin to separate the buttons */
+}
+
+.file-upload-button {
+  margin-top: 10px; /* Add margin to separate it from the browse button */
+}
+
+.file-upload-input {
+  display: none; /* Hide the file input */
+}
+
+.file-type-buttons {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap; /* Allow buttons to wrap onto the next line if needed */
+  justify-content: center; /* Center the buttons horizontally */
+  align-items: center; /* Center the buttons vertically */
+}
+
+.file-type-buttons button {
+  margin: 5px; /* Add margin to separate the buttons */
+}

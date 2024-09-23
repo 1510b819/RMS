@@ -1,0 +1,291 @@
+/* ChangePassword component styling */
+.change-password-container {
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.change-password-inner {
+    background-color: #f1f1f1;
+    height: 550px; /* Reduced height */
+    width: 450px; /* Reduced width */
+    position: relative;
+    border-radius: 16px; /* Slightly reduced border radius */
+    overflow: hidden; /* Ensure no overflow issues */
+}
+
+.overlay {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it's above other content */
+}
+
+.overlay-content {
+    background-color: #f1f1f1;
+    width: 450px; /* Reduced width */
+    height: 600px; /* Reduced height */
+    display: flex;
+    flex-direction: column;
+    padding: 16px; /* Reduced padding */
+    border-radius: 16px; /* Reduced border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.change-password-frame {
+    align-items: center;
+    display: inline-flex;
+    gap: 6px; /* Reduced gap */
+    left: 40px; /* Adjusted left position */
+    padding: 0px;
+    position: absolute;
+    top: 30px; /* Adjusted top position */
+}
+
+.change-password-frame-wrapper {
+    height: 500px; /* Reduced height */
+    position: relative;
+    width: 360px; /* Reduced width */
+}
+
+.change-password-title-frame {
+    height: 500px; /* Reduced height */
+    position: relative;
+}
+
+.change-password-title {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px; /* Reduced font size */
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 360px; /* Adjusted width */
+}
+
+.change-password-current-section {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px; /* Reduced gap */
+    left: 20px; /* Adjusted left position */
+    position: absolute;
+    top: 50px; /* Adjusted top position */
+    width: 320px; /* Reduced width */
+}
+
+.change-password-current-field {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px; /* Reduced gap */
+    position: relative;
+    width: 100%;
+}
+
+.change-password-current-label {
+    align-self: stretch;
+    color: #5a5959;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+}
+
+.change-password-input {
+    align-self: stretch;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #c5c5c5;
+    border-radius: 3px; /* Reduced border radius */
+    height: 35px; /* Reduced height */
+    position: relative;
+    width: 100%;
+}
+
+.change-password-forgot-link {
+    align-self: stretch;
+    color: #3575e2;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+}
+
+.change-password-new-section {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Reduced gap */
+    left: 20px; /* Adjusted left position */
+    position: absolute;
+    top: 160px; /* Adjusted top position */
+    width: 320px; /* Reduced width */
+}
+
+.change-password-new-field {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Reduced gap */
+    position: relative;
+    width: 320px; /* Adjusted width */
+}
+
+.change-password-strength-section {
+    align-items: center;
+    display: inline-flex;
+    gap: 4px; /* Reduced gap */
+    left: 20px; /* Adjusted left position */
+    position: absolute;
+    top: 240px; /* Adjusted top position */
+}
+
+.change-password-strength-label {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.change-password-strength-bar {
+    background-color: #4bb543;
+    border-radius: 100px;
+    height: 5px; /* Reduced height */
+    position: relative;
+    width: 120px; /* Reduced width */
+}
+
+.change-password-requirements {
+    height: 100px; /* Reduced height */
+    left: 20px; /* Adjusted left position */
+    position: absolute;
+    top: 280px; /* Adjusted top position */
+    width: 200px; /* Reduced width */
+}
+
+.change-password-requirements-label {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+}
+
+.change-password-requirements-list {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    left: 0;
+    position: absolute;
+    top: 25px; /* Adjusted top position */
+    width: 200px; /* Reduced width */
+}
+
+.change-password-requirement {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px; /* Reduced gap */
+    position: relative;
+}
+
+.change-password-check-icon {
+    height: 8px; /* Reduced height */
+    position: relative;
+    width: 12px; /* Reduced width */
+}
+
+.change-password-requirement-text {
+    color: #3575e2;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.change-password-repeat-field {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Reduced gap */
+    left: 20px; /* Adjusted left position */
+    position: absolute;
+    top: 400px; /* Adjusted top position */
+    width: 320px; /* Reduced width */
+}
+
+.change-password-submit-button {
+    align-items: center;
+    background-color: #3575e2;
+    border-radius: 8px; /* Reduced border radius */
+    display: flex;
+    gap: 6px; /* Reduced gap */
+    height: 35px; /* Reduced height */
+    justify-content: center;
+    left: 20px; /* Adjusted left position */
+    padding: 8px 60px; /* Reduced padding */
+    position: absolute;
+    top: 480px; /* Adjusted top position */
+    width: 320px; /* Reduced width */
+}
+
+.change-password-submit-text {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.change-password-back-link {
+    color: #3575e2;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 500;
+    left: 20px; /* Adjusted left position */
+    letter-spacing: 0;
+    line-height: 18px; /* Adjusted line height */
+    position: absolute;
+    top: 560px; /* Adjusted top position */
+    white-space: nowrap;
+}

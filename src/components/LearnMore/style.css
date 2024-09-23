@@ -1,0 +1,27 @@
+.learn-more {
+  background-color: #0072bc;
+  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+  height: 77px;
+  position: relative;
+  width: 248px;
+}
+
+.learn-more .text-wrapper {
+  color: #ffffff;
+  font-family: var(--paragraph-font-family);
+  font-size: var(--paragraph-font-size);
+  font-style: var(--paragraph-font-style);
+  font-weight: var(--paragraph-font-weight);
+  left: 58px;
+  letter-spacing: var(--paragraph-letter-spacing);
+  line-height: var(--paragraph-line-height);
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.learn-more:hover {
+  background-color: #5bbeff;
+}
+

@@ -1,0 +1,668 @@
+
+
+.status-screen {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.status-screen .status-2 {
+  background-color: #fafafa;
+  height: 1475px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.status-screen .ellipse {
+  background-color: #fff200;
+  border-radius: 170.5px/169px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 338px;
+  left: 2933px;
+  position: absolute;
+  top: 1061px;
+  width: 341px;
+}
+
+.status-screen .image {
+  height: 111px;
+  left: -4601px;
+  object-fit: cover;
+  position: absolute;
+  top: -1975px;
+  width: 196px;
+}
+
+.status-screen .overlap {
+  height: 82px;
+  left: 196px;
+  position: absolute;
+  top: 44px;
+  width: 1316px;
+}
+
+.status-screen .rectangle {
+  background-color: #0072bc;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1316px;
+}
+
+.status-screen .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 21px;
+  left: 1083px;
+  position: absolute;
+  top: 15px;
+}
+
+.status-screen .frame-wrapper {
+  height: 35.99px;
+  position: relative;
+  width: 187px;
+}
+
+.status-screen .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 21px;
+  height: 36px;
+  position: relative;
+  width: 187px;
+}
+
+.status-screen .vector {
+  height: 34px;
+  left: 933px;
+  position: absolute;
+  top: 14px;
+  width: 30px;
+}
+
+.status-screen .img {
+  height: 38px;
+  left: 992px;
+  position: absolute;
+  top: 14px;
+  width: 38px;
+}
+
+.status-screen .img-2 {
+  height: 14px;
+  left: 1004px;
+  position: absolute;
+  top: 22px;
+  width: 14px;
+}
+
+.status-screen .design-component-instance-node {
+  font-family: "Inter-Regular", Helvetica !important;
+  font-weight: 300 !important;
+  left: 1050px !important;
+  position: absolute !important;
+  top: 22px !important;
+}
+
+.status-screen .rectangle-2 {
+  background-color: #fafafa;
+  border-radius: 20px;
+  height: 65px;
+  left: 335px;
+  position: absolute;
+  top: 16px;
+  width: 97px;
+}
+
+.status-screen .group {
+  height: 29px;
+  left: 32px;
+  position: absolute;
+  top: 26px;
+  width: 561px;
+}
+
+.status-screen .dashboard-instance {
+  font-family: "Inter-Regular", Helvetica !important;
+  font-weight: 400 !important;
+  width: 127px !important;
+  
+}
+
+.status-screen .candidate-instance {
+  left: 188px !important;
+  position: absolute !important;
+  top: 26px !important;
+}
+
+.status-screen .status-instance {
+  color: #0072bc !important;
+  left: 346px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.status-screen .status-3 {
+  color: #0072bc !important;
+  font-family: "Inter-Regular", Helvetica !important;
+  font-weight: 400 !important;
+}
+
+.status-screen .job-posting-instance {
+  left: 446px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.status-screen .overlap-group {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 1321px;
+  width: 1512px;
+}
+
+.status-screen .rectangle-3 {
+  background-color: #0072bc;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1512px;
+}
+
+.status-screen .terms-conditions {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1099px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.status-screen .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 888px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.status-screen .vector-2 {
+  height: 36px;
+  left: 1097px;
+  position: absolute;
+  top: 21px;
+  width: 38px;
+}
+
+.status-screen .vector-3 {
+  height: 37px;
+  left: 1175px;
+  position: absolute;
+  top: 21px;
+  width: 39px;
+}
+
+.status-screen .vector-4 {
+  height: 37px;
+  left: 1254px;
+  position: absolute;
+  top: 21px;
+  width: 47px;
+}
+
+.status-screen .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 210px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.status-screen .vector-5 {
+  height: 27px;
+  left: 234px;
+  position: absolute;
+  top: 70px;
+  width: 27px;
+}
+
+.status-screen .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+}
+
+.status-screen .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+}
+
+.status-screen .vector-6 {
+  height: 27px;
+  left: 234px;
+  position: absolute;
+  top: 109px;
+  width: 28px;
+}
+
+.status-screen .logo {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 196px;
+}
+
+.status-screen .log-out-instance {
+  left: 1050px !important;
+  position: absolute !important;
+  top: 22px !important;
+}
+
+.status-screen .overlap-2 {
+  border-radius: 15px;
+  height: 85px;
+  left: 165px;
+  position: absolute;
+  top: 385px;
+  width: 820px;
+}
+
+.status-screen .div-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  display: flex;
+  gap: 194px;
+  height: 85px;
+  left: 0;
+  padding: 27px 30px;
+  position: absolute;
+  top: 0;
+  width: 820px;
+}
+
+.status-screen .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.status-screen .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.status-screen .progress {
+  height: 52px;
+  left: 745px;
+  position: absolute;
+  top: 17px;
+  width: 54px;
+}
+
+.status-screen .overlap-3 {
+  height: 52px;
+  position: relative;
+}
+
+.status-screen .ellipse-2 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.status-screen .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: -0.2px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.status-screen .overlap-group-wrapper {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.status-screen .overlap-group-2 {
+  background-image: url(./greenCircle.png);
+  background-size: 100% 100%;
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+
+.status-screen .text-wrapper-12 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.status-screen .rectangle-4 {
+  background-color: #0072bc;
+  height: 7px;
+  left: 46px;
+  position: absolute;
+  top: 228px;
+  width: 1420px;
+}
+
+.status-screen .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  height: 392px;
+  justify-content: center;
+  left: 1006px;
+  padding: 20px 24px;
+  position: absolute;
+  top: 269px;
+  width: 340px;
+}
+
+.status-screen .group-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 392px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.status-screen .magnifying-glass-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 42px;
+  position: relative;
+  width: 292px;
+}
+
+.status-screen .magnifying-glass {
+  height: 24px;
+  left: 11px;
+  position: relative;
+  top: 8px;
+  width: 27px;
+}
+
+.status-screen .overlap-group-3 {
+  height: 20px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.status-screen .vector-stroke {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.status-screen .vector-stroke-2 {
+  height: 6px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.status-screen .text-wrapper-13 {
+  color: #14141480;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.status-screen .text-wrapper-14 {
+  color: #4b4b4b;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.status-screen .group-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 41.22px;
+  position: relative;
+  width: 292px;
+}
+
+.status-screen .caret-down {
+  height: 14px;
+  left: 254px;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.status-screen .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 21px;
+  left: 12px;
+  position: absolute;
+  top: 9px;
+  width: 106px;
+}
+
+.status-screen .text-wrapper-15 {
+  color: #4b4b4b;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2.39px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.status-screen .frame-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  height: 85px;
+  left: 165px;
+  position: absolute;
+  top: 502px;
+  width: 820px;
+}
+
+.status-screen .text-wrapper-16 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+}
+
+.status-screen .overlap-group-4 {
+  background-image: url(./greenCircle.png);
+  background-size: 100% 100%;
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+
+.status-screen .overlap-wrapper {
+  height: 105px;
+  left: 155px;
+  position: absolute;
+  top: 609px;
+  width: 840px;
+}
+
+.status-screen .overlap-4 {
+  border-radius: 15px;
+  height: 85px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 820px;
+}
+
+.status-screen .frame-7 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  display: flex;
+  gap: 188px;
+  height: 85px;
+  left: 0;
+  padding: 27px 30px;
+  position: absolute;
+  top: 0;
+  width: 820px;
+}
+
+.status-screen .text-wrapper-17 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.status-screen .overlap-group-5 {
+  background-image: url(./greenCircle.png);
+  background-size: 100% 100%;
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+
+.status-screen .frame-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 15px;
+  height: 85px;
+  left: 165px;
+  position: absolute;
+  top: 736px;
+  width: 820px;
+}
+
+.status-screen .text-wrapper-18 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+}
+
+.status-screen .overlap-group-6 {
+  background-image: url(./greenCircle.png);
+  background-size: 100% 100%;
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+

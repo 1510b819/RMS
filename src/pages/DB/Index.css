@@ -1,0 +1,46 @@
+/* Index.css */
+
+.resume-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .resume-table th,
+  .resume-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .resume-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .resume-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .resume-table tbody tr:hover {
+    background-color: #ddd;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .dropdown {
+    margin-bottom: 20px;
+  }
+  
+  .dropdown label {
+    margin-right: 10px;
+  }
+  
+  .dropdown select {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  

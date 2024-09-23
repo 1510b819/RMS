@@ -1,0 +1,26 @@
+.sign-up {
+  height: 36px;
+  position: relative;
+  width: 112px;
+}
+
+.sign-up .text-wrapper {
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.sign-up .default {
+  color: #ffffff;
+}
+
+.sign-up .variant-2 {
+  color: #a2a2a2;
+}
+

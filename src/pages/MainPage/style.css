@@ -1,0 +1,253 @@
+.main {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.main .div-2 {
+  background-color: #fafafa;
+  height: 1685px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.main .footer {
+  background-color: transparent;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 1535px;
+  width: 1522px;
+}
+
+.main .overlap-group {
+  background-color: #0072bc;
+  height: 150px;
+  position: relative;
+  width: 1512px;
+}
+
+.main .terms-conditions {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1090px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.main .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 879px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.main .vector {
+  height: 36px;
+  left: 1088px;
+  position: absolute;
+  top: 20px;
+  width: 38px;
+}
+
+.main .img {
+  height: 37px;
+  left: 1166px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.main .vector-2 {
+  height: 37px;
+  left: 1245px;
+  position: absolute;
+  top: 20px;
+  width: 47px;
+}
+
+.main .overlap {
+  height: 96px;
+  left: 201px;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.main .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.main .vector-3 {
+  height: 27px;
+  left: 24px;
+  position: absolute;
+  top: 69px;
+  width: 27px;
+}
+
+.main .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+}
+
+.main .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 271px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+}
+
+.main .vector-4 {
+  height: 27px;
+  left: 225px;
+  position: absolute;
+  top: 108px;
+  width: 28px;
+}
+
+.main .overlap-2 {
+  height: 559px;
+  left: 791px;
+  position: absolute;
+  top: 865px;
+  width: 529px;
+}
+
+.main .body {
+  height: 559px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 529px;
+}
+
+.main .text-wrapper-8 {
+  color: #000000;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-size: 100px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 500px;
+}
+
+.main .p {
+  color: #000000;
+  font-family: var(--paragraph-font-family);
+  font-size: var(--paragraph-font-size);
+  font-style: var(--paragraph-font-style);
+  font-weight: var(--paragraph-font-weight);
+  left: 28px;
+  letter-spacing: var(--paragraph-letter-spacing);
+  line-height: var(--paragraph-line-height);
+  position: absolute;
+  top: 179px;
+  width: 495px;
+}
+
+.main .rectangle {
+  background-color: #0072bc;
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 12px;
+}
+
+.main .learn-more-instance {
+  left: 25px !important;
+  position: absolute !important;
+  top: 454px !important;
+}
+
+.main .overlap-3 {
+  background-image: url(./Rectangle\ 1.png);
+  background-size: 100% 100%;
+  height: 802px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.main .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 39px;
+  left: 938px;
+  position: absolute;
+  top: 57px;
+}
+
+.main .FAQ-instance {
+  width: 57px !important;
+}
+
+.main .sign-up-instance {
+  width: 112px !important;
+}
+
+.main .log-in-instance {
+  height: 40px !important;
+  width: 131px !important;
+}
+
+.main .design-component-instance-node {
+  left: 26px !important;
+}
+
+.main .logo {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 196px;
+}
+
+.main .rectangle-3 {
+  height: 582px !important;
+  left: 196px !important;
+  position: absolute !important;
+  top: 865px !important;
+  width: 550px !important;
+}
+

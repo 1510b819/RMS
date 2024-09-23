@@ -1,0 +1,995 @@
+.applicant-dashboard {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.applicant-dashboard .div-4 {
+  background-color: #fafafa;
+  height: 1398px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.applicant-dashboard .overlap-6 {
+  left: 244px;
+  position: absolute;
+  top: 328px;
+  width: 835px;
+}
+
+.applicant-dashboard .image {
+  height: 83px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 147px;
+}
+
+.applicant-dashboard .group-2 {
+  height: 191px;
+  left: 218px;
+  position: absolute;
+  top: 21px;
+  width: 562px;
+}
+
+.applicant-dashboard .p {
+  color: #141414b2;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 102px;
+  width: 560px;
+}
+
+.applicant-dashboard .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 560.02px;
+}
+
+.applicant-dashboard .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.applicant-dashboard .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.applicant-dashboard .text-wrapper-8 {
+  color: #141414;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.applicant-dashboard .text-wrapper-9 {
+  color: #141414;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-5 {
+  align-items: center;
+  background-color: #7d5ae21a;
+  border-radius: 3px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  overflow: hidden;
+  padding: 2px 6px;
+  position: relative;
+}
+
+.applicant-dashboard .text-wrapper-10 {
+  color: #7d5ae2;
+  font-family: "DM Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  margin-bottom: -7.35px;
+  padding: 2px 0px;
+  position: relative;
+}
+
+.applicant-dashboard .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.applicant-dashboard .img {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.applicant-dashboard .text-wrapper-11 {
+  color: #141414b2;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .ellipse {
+  background-color: #141414b2;
+  border-radius: 1px;
+  height: 2px;
+  position: relative;
+  width: 2px;
+}
+
+.applicant-dashboard .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 235px;
+  left: 244px;
+  position: absolute;
+  top: 594px;
+  width: 835px;
+}
+
+.applicant-dashboard .image-2 {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 196px;
+}
+
+.applicant-dashboard .navbar {
+  height: 89px;
+  left: 196px;
+  position: absolute;
+  top: 43px;
+  width: 1316px;
+}
+
+.applicant-dashboard .rectangle-3 {
+  background-color: #0072bc;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1316px;
+}
+
+.applicant-dashboard .vector {
+  height: 32px;
+  left: 1135px;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.applicant-dashboard .vector-2 {
+  height: 13px;
+  left: 1154px;
+  position: absolute;
+  top: 23px;
+  width: 14px;
+}
+
+.applicant-dashboard .vector-3 {
+  height: 32px;
+  left: 1083px;
+  position: absolute;
+  top: 15px;
+  width: 30px;
+}
+
+.applicant-dashboard .log-out-instance {
+  left: 1193px !important;
+  position: absolute !important;
+  top: 21px !important;
+}
+
+.applicant-dashboard .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.hover-effect:hover {
+  color: #a2a2a2 !important;
+  cursor: pointer; 
+}
+
+
+.applicant-dashboard .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 318px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.applicant-dashboard .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 422px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.applicant-dashboard .rectangle-4 {
+  background-color: #fafafa;
+  border-radius: 20px;
+  height: 83px;
+  left: 18px;
+  position: absolute;
+  top: 6px;
+  width: 122px;
+}
+
+.applicant-dashboard .text-wrapper-15 {
+  color: #0072bc;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.applicant-dashboard .rectangle-5 {
+  background-color: #0072bc;
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 1248px;
+  width: 1512px;
+}
+
+.applicant-dashboard .overlap-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 1000px;
+  left: 54px;
+  position: absolute;
+  top: 221px;
+  width: 170px;
+}
+
+.applicant-dashboard .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 23px;
+}
+
+.applicant-dashboard .text-wrapper-16 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-9 {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px 1px;
+  height: 144px;
+  padding: 17px 12px;
+  position: relative;
+  width: 148px;
+}
+
+.applicant-dashboard .ellipse-2 {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #c5c5c5;
+  border-radius: 7.5px;
+  height: 15px;
+  margin-top: -2.5px;
+  position: relative;
+  width: 15px;
+}
+
+.applicant-dashboard .text-wrapper-17 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .ellipse-3 {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #c5c5c5;
+  border-radius: 7.5px;
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.applicant-dashboard .text-wrapper-18 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .ellipse-4 {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #c5c5c5;
+  border-radius: 7.5px;
+  height: 15px;
+  margin-bottom: -2.5px;
+  position: relative;
+  width: 15px;
+}
+
+.applicant-dashboard .text-wrapper-19 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 12px;
+  position: absolute;
+  top: 217px;
+}
+
+.applicant-dashboard .frame-11 {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px 1px;
+  height: 144px;
+  padding: 17px 12px;
+  position: relative;
+  width: 130px;
+}
+
+.applicant-dashboard .ellipse-5 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 453px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-6 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 476px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-7 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 501px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-8 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 524px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-9 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 548px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-10 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 572px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-11 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 597px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-12 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 645px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-13 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 692px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-14 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 717px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-15 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 765px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-16 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 813px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-17 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 860px;
+  width: 15px;
+}
+
+.applicant-dashboard .ellipse-18 {
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 908px;
+  width: 15px;
+}
+
+.applicant-dashboard .text-wrapper-20 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 412px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 48px;
+  position: absolute;
+  top: 451px;
+}
+
+.applicant-dashboard .text-wrapper-21 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .text-wrapper-22 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.applicant-dashboard .overlap-9 {
+  background-color: #178dfa;
+  border-radius: 8px;
+  height: 45px;
+  left: 12px;
+  position: absolute;
+  top: 945px;
+  width: 147px;
+}
+
+.applicant-dashboard .overlap-9:hover {
+  background-color: #3575e2;
+}
+
+.applicant-dashboard .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+
+.applicant-dashboard .overlap-10 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 80px;
+  left: 244px;
+  position: absolute;
+  top: 217px;
+  width: 835px;
+}
+
+.applicant-dashboard .text-wrapper-24 {
+  color: #c5c5c5;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.applicant-dashboard .overlap-group-wrapper {
+  height: 42px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.applicant-dashboard .overlap-group-2 {
+  height: 42px;
+  position: relative;
+  width: 35px;
+}
+
+.applicant-dashboard .ellipse-19 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #c5c5c5;
+  border-radius: 16px/15px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.applicant-dashboard .line {
+  height: 16px;
+  left: 22px;
+  position: absolute;
+  top: 26px;
+  width: 13px;
+}
+
+.applicant-dashboard .overlap-11 {
+  background-color: #3575e2;
+  border-radius: 8px;
+  height: 65px;
+  left: 727px;
+  position: absolute;
+  top: 7px;
+  width: 101px;
+}
+
+.applicant-dashboard .overlap-11:hover {
+  background-color: #178dfa;
+}
+
+.applicant-dashboard .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+  top: 17px;
+}
+
+
+.applicant-dashboard .rectangle-6 {
+  background-color: #a6a6a6;
+  height: 59px;
+  left: 433px;
+  position: absolute;
+  top: 10px;
+  width: 2px;
+}
+
+.applicant-dashboard .group-13 {
+  left: 454px !important;
+  position: absolute !important;
+  top: 10px !important;
+}
+
+.applicant-dashboard .overlap-12 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 8px;
+  height: 877px;
+  left: 1099px;
+  position: absolute;
+  top: 217px;
+  width: 360px;
+}
+
+.applicant-dashboard .my-objective-is-to-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  left: 45px;
+  padding: 10px;
+  position: absolute;
+  top: 541px;
+  width: 275px;
+}
+
+.applicant-dashboard .my-objective-is-to {
+  color: #141414b2;
+  font-family: "DM Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-left: -23px;
+  margin-right: -23px;
+  margin-top: -1px;
+  position: relative;
+  width: 301px;
+}
+
+.applicant-dashboard .text-wrapper-26 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 325px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .text-wrapper-27 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 504px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .text-wrapper-28 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 751px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .text-wrapper-29 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .uis-bag {
+  height: 51px;
+  left: 23px;
+  position: absolute;
+  top: 85px;
+  width: 51px;
+}
+
+.applicant-dashboard .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 94px;
+  position: absolute;
+  top: 90px;
+}
+
+.applicant-dashboard .text-wrapper-30 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .text-wrapper-31 {
+  color: #141414b2;
+  font-family: "DM Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.applicant-dashboard .frame-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 94px;
+  position: absolute;
+  top: 164px;
+}
+
+.applicant-dashboard .frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 94px;
+  position: absolute;
+  top: 242px;
+}
+
+.applicant-dashboard .frame-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 29px;
+  position: absolute;
+  top: 376px;
+}
+
+.applicant-dashboard .frame-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 29px;
+  position: absolute;
+  top: 427px;
+}
+
+.applicant-dashboard .frame-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 169px;
+  position: absolute;
+  top: 376px;
+}
+
+.applicant-dashboard .mdi-calendar {
+  height: 51px;
+  left: 23px;
+  position: absolute;
+  top: 162px;
+  width: 51px;
+}
+
+.applicant-dashboard .clarity-dollar-solid {
+  height: 51px;
+  left: 23px;
+  position: absolute;
+  top: 239px;
+  width: 51px;
+}
+
+.applicant-dashboard .overlap-13 {
+  background-color: #3575e2;
+  border-radius: 15px;
+  height: 33px;
+  left: 33px;
+  position: absolute;
+  top: 804px;
+  width: 102px;
+}
+
+.applicant-dashboard .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.applicant-dashboard .overlap-14 {
+  background-color: #3575e2;
+  border-radius: 15px;
+  height: 33px;
+  left: 154px;
+  position: absolute;
+  top: 804px;
+  width: 116px;
+}
+
+.applicant-dashboard .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}

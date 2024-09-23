@@ -1,0 +1,23 @@
+.edit {
+  height: 24px;
+  position: relative;
+  width: 30px;
+}
+
+.edit .text-wrapper-6 {
+  color: #14141480;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.edit:hover .text-wrapper-6 {
+  color: #0072bc;
+  text-decoration: underline;
+}

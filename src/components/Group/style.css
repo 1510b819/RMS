@@ -1,0 +1,262 @@
+.group {
+  position: relative;
+  width: 246px;
+}
+
+.group .overlap-group {
+  height: 15px;
+  left: 214px;
+  position: absolute;
+  top: 23px;
+  width: 25px;
+}
+
+.group .div {
+  position: absolute;
+}
+
+
+
+.group .rectangle {
+  background-color: #000000;
+  height: 17px;
+  left: 6px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(-45.75deg);
+  width: 3px;
+}
+
+.group .rectangle-2 {
+  background-color: #000000;
+  height: 17px;
+  left: 16px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(43.7deg);
+  width: 3px;
+}
+
+.category-item, .select-category {
+  font-size: 25px; /* Adjust the font size as needed */
+  line-height: 1.3;
+}
+
+.group .div-2 {
+  position: absolute;
+}
+
+.group .text-wrapper-2 {
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.group .div-wrapper {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dddddd;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 246px;
+}
+
+.group .text-wrapper-3 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.group .overlap {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dddddd;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 118px;
+  width: 246px;
+}
+
+.group .text-wrapper-4 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.group .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dddddd;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 177px;
+  width: 246px;
+}
+
+.group .text-wrapper-5 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.group .overlap-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dddddd;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 236px;
+  width: 246px;
+}
+
+.group .text-wrapper-6 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.group .overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dddddd;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 295px;
+  width: 246px;
+}
+
+.group .overlap-5 {
+  background-color: #ffffff;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 246px;
+}
+
+.group .text-wrapper-7 {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.group .div-3 {
+  height: 15px;
+  left: 215px;
+  position: absolute;
+  top: 22px;
+  width: 25px;
+}
+
+.group.category {
+  height: 354px;
+}
+
+.group.default {
+  background-color: #ffffff;
+  height: 59px;
+}
+
+.group.variant-2 {
+  background-color: #d3d3d3;
+  height: 59px;
+}
+
+.group.category .div {
+  height: 15px;
+  left: 0;
+  top: 0;
+  width: 25px;
+}
+
+.group.default .div {
+  height: 15px;
+  left: 0;
+  top: 0;
+  width: 25px;
+}
+
+.group.variant-2 .div {
+  background-color: #000000;
+  height: 17px;
+  left: 6px;
+  top: -1px;
+  transform: rotate(-45.75deg);
+  width: 3px;
+}
+
+.group.category .div-2 {
+  height: 15px;
+  left: 0;
+  top: 0;
+  width: 25px;
+}
+
+.group.default .div-2 {
+  height: 15px;
+  left: 0;
+  top: 0;
+  width: 25px;
+}
+
+.group.variant-2 .div-2 {
+  background-color: #000000;
+  height: 17px;
+  left: 16px;
+  top: -1px;
+  transform: rotate(43.7deg);
+  width: 3px;
+}
+
+.group.category .text-wrapper-2 {
+  color: #c5c5c5;
+}
+
+.group.default .text-wrapper-2 {
+  color: #c5c5c5;
+}
+
+.group.variant-2 .text-wrapper-2 {
+  color: #000000;
+}

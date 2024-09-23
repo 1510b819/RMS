@@ -1,0 +1,23 @@
+
+.job-posting {
+  height: 29px;
+  position: relative;
+  width: 138px;
+}
+
+.job-posting .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.job-posting:hover .text-wrapper {
+  color: #a2a2a2;
+}
+

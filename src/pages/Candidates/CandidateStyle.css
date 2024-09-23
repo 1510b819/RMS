@@ -1,0 +1,857 @@
+.candidates {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.candidates .div-2 {
+  background-color: #fafafa;
+  height: 1475px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.candidates .image {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 196px;
+}
+
+.candidates .overlap {
+  height: 82px;
+  left: 196px;
+  position: absolute;
+  top: 44px;
+  width: 1316px;
+}
+
+.candidates .rectangle {
+  background-color: #0072bc;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1316px;
+}
+
+.candidates .vector {
+  height: 38px;
+  left: 992px;
+  position: absolute;
+  top: 14px;
+  width: 38px;
+}
+
+.candidates .img {
+  height: 14px;
+  left: 1004px;
+  position: absolute;
+  top: 22px;
+  width: 14px;
+}
+
+.candidates .vector-2 {
+  height: 34px;
+  left: 933px;
+  position: absolute;
+  top: 14px;
+  width: 30px;
+}
+
+.candidates .rectangle-2 {
+  background-color: #fafafa;
+  border-radius: 20px;
+  height: 67px;
+  left: 170px;
+  position: absolute;
+  top: 15px;
+  width: 161px;
+}
+
+.candidates .text-wrapper-4 {
+  color: #0072bc;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 193px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 120px;
+}
+
+.candidates .dashboard-instance {
+  left: 30px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.job-posting-instance {
+  transition: transform 0.3s ease;
+}
+
+.job-posting-clicked .job-posting-instance {
+  transform: scale(1.1);
+}
+
+.candidates .design-component-instance-node {
+  width: 127px !important;
+}
+
+.candidates .status-instance {
+  left: 349px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+
+.candidates .job-posting-instance {
+  left: 460px !important;
+  position: absolute !important;
+  top: 28px !important;
+}
+.image {
+width: 196px;
+height: 111px;
+flex-shrink: 0;
+}
+.candidates .log-out-instance {
+  left: 1050px !important;
+  position: absolute !important;
+  top: 22px !important;
+}
+
+.hover-effect:hover {
+  color: #a2a2a2 !important;
+  cursor: pointer; 
+}
+
+.candidates .rectangle-3 {
+  background-color: #0072bc;
+  height: 7px;
+  left: 46px;
+  position: absolute;
+  top: 237px;
+  width: 1420px;
+}
+
+.candidates .text-wrapper-5 {
+  color: #4b4b4b;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 401px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-6 {
+  color: #4b4b4b;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 733px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-7 {
+  color: #4b4b4b;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 1064px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-8 {
+  color: #4b4b4b;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 190px;
+}
+
+.candidates .text-wrapper-9 {
+  color: #4b4b4b;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 1031px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 190px;
+}
+
+.candidates .text-wrapper-10 {
+  color: #4b4b4b;
+  font-family: "DM Sans", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 190px;
+}
+
+.candidates .frame {
+  height: 1000px;
+  left: 196px;
+  position: absolute;
+  top: 253px;
+  width: 1120px;
+}
+
+.candidates .overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 1120px;
+}
+
+.candidates .group {
+  height: 48px;
+  left: 18px;
+  position: absolute;
+  top: 12px;
+  width: 49px;
+}
+
+.candidates .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-12 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.candidates .div-wrapper {
+  background-color: #e2e2e2;
+  border-radius: 10px;
+  height: 27px;
+  left: 518px;
+  position: absolute;
+  top: 25px;
+  width: 85px;
+}
+
+.candidates .text-wrapper-13 {
+  color: #178dfa;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+}
+
+.candidates .lets-icons-clock {
+  height: 48px;
+  left: 963px;
+  position: absolute;
+  top: 12px;
+  width: 48px;
+}
+
+.candidates .solid-sheet {
+  height: 34px;
+  left: 1057px;
+  position: absolute;
+  top: 18px;
+  width: 26px;
+}
+
+.candidates .progress {
+  height: 52px;
+  left: 771px;
+  position: absolute;
+  top: 10px;
+  width: 54px;
+}
+
+.candidates .overlap-group-2 {
+  background-image: url(https://c.animaapp.com/Ip2nhn0S/img/ellipse-4.svg);
+  background-size: 100% 100%;
+  height: 52px;
+  position: relative;
+  width: 52px;
+}
+
+.candidates .ellipse {
+  height: 51px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.candidates .text-wrapper-14 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: -0.24px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.candidates .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: -1px;
+  position: absolute;
+  top: 103px;
+  width: 1120px;
+}
+
+.candidates .overlap-3 {
+  background-color: #e2e2e2;
+  border-radius: 10px;
+  height: 27px;
+  left: 518px;
+  position: absolute;
+  top: 23px;
+  width: 85px;
+}
+
+.candidates .text-wrapper-15 {
+  color: #178dfa;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.candidates .rectangle-4 {
+  background-color: #e2e2e2;
+  border-radius: 10px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.candidates .text-wrapper-16 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-4 {
+  height: 18px;
+  left: 150px;
+  position: absolute;
+  top: 41px;
+  width: 87px;
+}
+
+.candidates .text-wrapper-17 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.candidates .lets-icons-clock-wrapper {
+  background-image: url(https://c.animaapp.com/Ip2nhn0S/img/lets-icons-clock-fill-1.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: 964px;
+  position: absolute;
+  top: 13px;
+  width: 48px;
+}
+
+.candidates .lets-icons-clock-2 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.candidates .solid-sheet-wrapper {
+  background-image: url(https://c.animaapp.com/Ip2nhn0S/img/fa6-solid-sheet-plastic-1.svg);
+  background-size: 100% 100%;
+  height: 34px;
+  left: 1058px;
+  position: absolute;
+  top: 20px;
+  width: 26px;
+}
+
+.candidates .fa-solid-sheet {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.candidates .overlap-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 206px;
+  width: 1120px;
+}
+
+.candidates .group-2 {
+  height: 48px;
+  left: 17px;
+  position: absolute;
+  top: 12px;
+  width: 49px;
+}
+
+.candidates .overlap-6 {
+  background-color: #e2e2e2;
+  border-radius: 10px;
+  height: 27px;
+  left: 517px;
+  position: absolute;
+  top: 23px;
+  width: 85px;
+}
+
+.candidates .text-wrapper-18 {
+  color: #178dfa;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.candidates .text-wrapper-19 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-20 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.candidates .lets-icons-clock-3 {
+  height: 48px;
+  left: 962px;
+  position: absolute;
+  top: 12px;
+  width: 48px;
+}
+
+.candidates .solid-sheet-2 {
+  height: 34px;
+  left: 1056px;
+  position: absolute;
+  top: 19px;
+  width: 26px;
+}
+
+.candidates .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 309px;
+  width: 1120px;
+}
+
+.candidates .text-wrapper-21 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-22 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 412px;
+  width: 1120px;
+}
+
+.candidates .text-wrapper-23 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 119px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-9 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 515px;
+  width: 1120px;
+}
+
+.candidates .text-wrapper-24 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .text-wrapper-25 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-10 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 618px;
+  width: 1120px;
+}
+
+.candidates .group-3 {
+  height: 48px;
+  left: 17px;
+  position: absolute;
+  top: 11px;
+  width: 49px;
+}
+
+.candidates .text-wrapper-26 {
+  color: #178dfa;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.candidates .text-wrapper-27 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-11 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 721px;
+  width: 1120px;
+}
+
+.candidates .text-wrapper-28 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.candidates .overlap-12 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 824px;
+  width: 1120px;
+}
+
+.candidates .overlap-13 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #c5c5c5;
+  border-radius: 10px;
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 927px;
+  width: 1120px;
+}
+
+.candidates .text-wrapper-29 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.candidates .rectangle-5 {
+  background-color: #e2e2e2;
+  height: 94px;
+  left: 951px;
+  position: absolute;
+  top: 126px;
+  width: 5px;
+}
+
+.candidates .rectangle-6 {
+  background-color: #e2e2e2;
+  height: 94px;
+  left: 571px;
+  position: absolute;
+  top: 126px;
+  width: 5px;
+}
+
+.candidates .rectangle-7 {
+  background-color: #0072bc;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 1326px;
+  width: 1512px;
+}
+
+.candidates .pagination {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  justify-content: center;
+  left: 568px;
+  position: absolute;
+  top: 1270px;
+}
+
+.candidates .button {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.candidates .button-2 {
+  all: unset;
+  align-items: center;
+  background-color: #3575e2;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 4px;
+  height: 40px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  width: 40px;
+}
+
+.candidates .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.candidates .button-3 {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #1111111a;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 4px;
+  height: 40px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  width: 40px;
+}
+
+.candidates .text-wrapper-31 {
+  color: #111111;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
